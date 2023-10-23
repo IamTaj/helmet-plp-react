@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Shoei Qwest Helmet- SOlid (Size XS Only)",
+    "price": 232.79,
+    "image": "./Assets/helmet1.png",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "closeout": "CLOSEOUT"
+  },
+  {
+    "id": 2,
+    "title": "Shoei RF-1200 Helmet - Solid Helmet",
+    "price": 485.99,
+    "image": "./Assets/helmet2.png",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "color": "10 Colors"
+  },
+  {
+    "id": 3,
+    "title": "Scorpions EXO-R420 - AshGrey Helmet",
+    "price": 149.95,
+    "image": "./Assets/helmet3.png",
+    "rating": {
+      "rate": 4.7,
+      "count": 500
+    },
+    "color": "4 Colors"
+  },
+  {
+    "id": 4,
+    "title": "Bell Qualifier DLX Blackout Helmet",
+    "price": 149.95,
+    "image": "./Assets/helmet4.png",
+    "rating": {
+      "rate": 2.1,
+      "count": 430
+    }
+  },
+
+  {
+    "id": 5,
+    "title": "Bell Star Pace Helmet (Size SM Only)",
+    "price": 249.99,
+    "image": "./Assets/helmet5.png",
+    "rating": {
+      "rate": 4.6,
+      "count": 400
+    },
+    "color": "2 Colors",
+    "closeout": "CLOSEOUT"
+  },
+
+  {
+    "id": 6,
+    "title": "Speed and Strength SS3000 Solid Speed Helmet ",
+    "price": 94.99,
+    "image": "./Assets/helmet6.png",
+    "rating": {
+      "rate": 3.9,
+      "count": 70
+    },
+    "color": "2 Colors",
+    "closeout": "CLOSEOUT"
+  },
+
+  {
+    "id": 7,
+    "title": "ICon Alliance Dark Helmet",
+    "description":"Opting for basic colors can never go out of style or make you feel outdated. Flaunt your style just by being simply decent. AXOR offers you X-Cross Helmets in Single colors that will give you a classy look and feel to ride along the weather and moods to keep you going.",
+    "price": 170,
+    "image": "./Assets/helmet7.png",
+    "rating": {
+      "rate": 3,
+      "count": 400
+    },
+    "closeout": "CLOSEOUT"
+  },
+
+  {
+    "id": 8,
+    "title": "Shoel RF-1200 Valkyrie Helmet",
+    "price": 471.99,
+    "image": "./Assets/helmet8.png",
+    "rating": {
+      "rate": 1.9,
+      "count": 100
+    },
+    "color": "2 Colors",
+    "closeout": "CLOSEOUT"
+  },
+
+  {
+    "id": 9,
+    "title": "Speed and Strength SS3000 Solid Lightspeed Helmet ",
+    "price": 99.99,
+    "image": "./Assets/helmet9.png",
+    "rating": {
+      "rate": 3.3,
+      "count": 203
+    },
+    "closeout": "CLOSEOUT"
+  },
+
+  {
+    "id": 10,
+    "title": "AVG K3 SV Helmet - Musturd Yellow Gripple Hemlmet",
+    "price": 199.99,
+    "image": "./Assets/helmet10.png",
+    "rating": {
+      "rate": 2.9,
+      "count": 470
+    }
+  },
+
+  {
+    "id": 11,
+    "title": "Icon Airfillte Helmet",
+    "price": 250.99,
+    "image": "./Assets/helmet11.png",
+    "rating": {
+      "rate": 4.8,
+      "count": 319
+    }
+  },
+
+  {
+    "id": 12,
+    "title": "Bell Qualifier Helmet",
+    "price": 109.99,
+    "image": "./Assets/helmet12.png",
+    "rating": {
+      "rate": 4.8,
+      "count": 400
+    }
+  }
+]

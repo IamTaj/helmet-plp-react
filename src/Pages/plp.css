@@ -1,0 +1,64 @@
+.main-div {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 60px;
+}
+.items {
+  width: 20%;
+  padding: 10px;
+  margin: 65px 60px 0px 0px;
+      box-shadow: 2px 4px 6px 1px
+  /* border: 1px solid black; */
+}
+.btn {
+  display: none;
+      margin-top: -41px;
+}
+.content:hover + .btn {
+  display: inline-block;
+  color: white;
+}
+.more {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+.discount-banner {
+  color: aqua;
+}
+.title {
+  text-align: center;
+  margin-top: 14px;
+  font-weight: 400;
+}
+.closeout {
+  background-color: orangered;
+  text-align: center;
+  color: white;
+  border-radius: 10px 10px 0px 0px;
+}
+.price{
+    font-size: xx-large;
+}
+.discout-price{
+    color: grey;
+}
+@media screen and (max-width: 768px) {
+   
+    .items{
+            width: 100%;
+            padding: 10px 20px 10px 20px;
+    }
+    .photo{
+            width: 80%;
+    }
+}
+.rating{
+    display: flex;
+    justify-content: space-between;
+}
+.button{
+    
+}
